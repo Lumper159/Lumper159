@@ -1,0 +1,39 @@
+﻿body 
+{
+    background-color: darkslategray
+}
+
+#fo 
+{
+    width: 90%;
+    border: 2px solid red;
+    border-radius: 10%;
+    padding: 2%;
+    background-color: lightgray;
+    margin: 0 auto;
+}
+
+header 
+{
+    height: 10%;
+    width: 100%;
+    background-color: palevioletred;
+}
+
+nav 
+{
+    height: 10%;
+    width: 90%;
+    background-color: darkseagreen;
+}
+
+{
+    height:70%;
+    border:2px solid green;
+    border-radius:10%;
+    padding:1%;
+    background-color:yellow;
+    margin:0 auto;
+
+
+}
